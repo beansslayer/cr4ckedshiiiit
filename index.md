@@ -11,17 +11,7 @@
     <meta name="generator" content="Hugo 0.82.0" />
     <title>CRACKED SHIT - BEANNSLAYER</title>
 
-    <link
-      
-    />
-
-    <!-- Bootstrap core CSS -->
-    <link
-      href="https://getbootstrap.com/docs/5.0/dist/css/bootstrap.min.css"
-      rel="stylesheet"
-      integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6"
-      crossorigin="anonymous"
-    />
+    <link>
 
     <!-- Favicons -->
     <link
@@ -36,32 +26,6 @@
       type="image/png"
     />
     <link
-      rel="icon"
-      href=
-      sizes="16x16"
-      type="image/png"
-    />
-    <link
-      rel="manifest"
-      href="
-    />
-    <link
-      rel="mask-icon"
-      href="
-      color="#7952b3"
-    />
-    <link
-      rel="icon"
-      href="https://getbootstrap.com/docs/5.0/assets/img/favicons/favicon.ico"
-    />
-    <meta name="theme-color" content="#7952b3" />based
-	
-
-    <!-- Custom styles for this template -->
-    <link
-      href="https://getbootstrap.com/docs/5.0/examples/product/product.css"
-      rel="stylesheet"
-    />
   </head>
   <body>
     <header class="site-header sticky-top py-1">
@@ -104,7 +68,7 @@
           <div class="my-3 py-3">
             <h2 class="display-5">FREE ACCOUNTS DAILY UPDATED!</h2>
             <p class="lead">.</p>elajasbrien@gmail.com Password: Musika11 **MC ACCOUNT**
-          </div>
+          
           <div
             class="bg-light shadow-sm mx-auto"
             style="width: 80%; height: 300px; border-radius: 21px 21px 0 0"
@@ -117,11 +81,11 @@
             <h2 class="display-5">FREE ACCOUNTS DAILY UPDATED! </h2>
             <p class="lead"></p>
 maruthi.mba@gmail.com Password: skyblue31 **NETFLIX ACCOUNT**
-          </div>
+          
           <div
             class="bg-dark shadow-sm mx-auto"
             style="width: 80%; height: 300px; border-radius: 21px 21px 0 0"
-          ></div>
+          
         </div>
       </div>
 
@@ -146,7 +110,7 @@ kgelazin@gmail.com Password: Poplop21 **DISNEY+ ACCOUNT**
           <div class="my-3 py-3">
             <h2 class="display-5">FREE ACCOUNTS DAILY UPDATED!</h2>
             <p class="lead">dabishwitskillz@yahoo.com Password: vjdm5571 **SPOTIFY ACCOUNT**</p>
-          </div>
+          
           <div
             class="bg-light shadow-sm mx-auto"
             style="width: 80%; height: 300px; border-radius: 21px 21px 0 0"
@@ -173,7 +137,7 @@ kgelazin@gmail.com Password: Poplop21 **DISNEY+ ACCOUNT**
           <div class="my-3 py-3">
             <h2 class="display-5">All cracked by beansslayer</h2>
             <p class="lead"></p>
-          </div>
+          
           <div
             class="bg-body shadow-sm mx-auto"
             style="width: 80%; height: 300px; border-radius: 21px 21px 0 0"
